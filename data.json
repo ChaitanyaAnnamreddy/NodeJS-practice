@@ -1,0 +1,10 @@
+{
+  "name": "Chaitanya",
+  "age": 24,
+  "city": "Bengaluru",
+  "isAlive": true,
+  "sex": "Male",
+  "phone": 8888888888,
+  "email": "chaitanya@123",
+  "state": "Karnataka"
+}
